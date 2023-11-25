@@ -10,6 +10,7 @@ This package verify if an string is equal a "kurapika"
 const player1 = require('b2b-canaisdigitais');
 
 player1("killua"));
+player1("kurapika"));
 ```
 
 The result is :  
